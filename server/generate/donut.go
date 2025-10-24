@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/Binject/go-donut/donut"
-	"github.com/bishopfox/sliver/server/configs"
+	"github.com/baconpotato519/smile/server/configs"
 )
 
 // DonutShellcodeFromFile returns a Donut shellcode for the given PE file

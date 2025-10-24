@@ -23,14 +23,14 @@ import (
 	"mime"
 	"path/filepath"
 
-	consts "github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
+	consts "github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
 
-	"github.com/bishopfox/sliver/server/core"
-	"github.com/bishopfox/sliver/server/db"
-	"github.com/bishopfox/sliver/server/log"
-	"github.com/bishopfox/sliver/server/website"
+	"github.com/baconpotato519/smile/server/core"
+	"github.com/baconpotato519/smile/server/db"
+	"github.com/baconpotato519/smile/server/log"
+	"github.com/baconpotato519/smile/server/website"
 )
 
 var (

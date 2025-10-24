@@ -25,7 +25,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/bishopfox/sliver/server/certs"
+	"github.com/baconpotato519/smile/server/certs"
 	"github.com/spf13/cobra"
 )
 

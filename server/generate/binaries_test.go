@@ -23,10 +23,10 @@ import (
 	"os"
 	"testing"
 
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/server/certs"
-	"github.com/bishopfox/sliver/server/configs"
-	"github.com/bishopfox/sliver/server/sgn"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/server/certs"
+	"github.com/baconpotato519/smile/server/configs"
+	"github.com/baconpotato519/smile/server/sgn"
 )
 
 var (

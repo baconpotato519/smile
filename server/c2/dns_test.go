@@ -29,8 +29,8 @@ import (
 	"time"
 
 	"github.com/baconpotato519/smile/implant/smile/transports/dnsclient"
-	"github.com/bishopfox/sliver/protobuf/dnspb"
-	"github.com/bishopfox/sliver/util/encoders"
+	"github.com/baconpotato519/smile/protobuf/dnspb"
+	"github.com/baconpotato519/smile/util/encoders"
 	"google.golang.org/protobuf/proto"
 )
 

@@ -34,8 +34,8 @@ import (
 	"github.com/baconpotato519/smile/implant/smile/mount"
 	"github.com/baconpotato519/smile/implant/smile/procdump"
 	"github.com/baconpotato519/smile/implant/smile/taskrunner"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 
 	// {{if .Config.Debug}}

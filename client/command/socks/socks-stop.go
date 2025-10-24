@@ -21,9 +21,9 @@ package socks
 import (
 	"context"
 
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/client/core"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/client/core"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 	"github.com/spf13/cobra"
 )
 

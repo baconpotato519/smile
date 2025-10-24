@@ -21,11 +21,11 @@ package rpc
 import (
 	"context"
 
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/server/db"
-	"github.com/bishopfox/sliver/server/db/models"
-	"github.com/bishopfox/sliver/server/log"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/server/db"
+	"github.com/baconpotato519/smile/server/db/models"
+	"github.com/baconpotato519/smile/server/log"
 )
 
 var (

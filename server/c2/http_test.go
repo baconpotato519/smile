@@ -30,9 +30,9 @@ package c2
 // 	implantCrypto "github.com/baconpotato519/smile/implant/smile/cryptography"
 // 	implantEncoders "github.com/baconpotato519/smile/implant/smile/encoders"
 // 	implantTransports "github.com/baconpotato519/smile/implant/smile/transports/httpclient"
-// 	"github.com/bishopfox/sliver/protobuf/sliverpb"
-// 	"github.com/bishopfox/sliver/server/configs"
-// 	"github.com/bishopfox/sliver/server/cryptography"
+// 	"github.com/baconpotato519/smile/protobuf/sliverpb"
+// 	"github.com/baconpotato519/smile/server/configs"
+// 	"github.com/baconpotato519/smile/server/cryptography"
 // 	"google.golang.org/protobuf/proto"
 // )
 

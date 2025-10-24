@@ -21,10 +21,10 @@ package cli
 import (
 	"errors"
 
-	"github.com/bishopfox/sliver/client/command"
-	"github.com/bishopfox/sliver/client/command/use"
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/client/constants"
+	"github.com/baconpotato519/smile/client/command"
+	"github.com/baconpotato519/smile/client/command/use"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/client/constants"
 	"github.com/rsteube/carapace"
 	"github.com/spf13/cobra"
 	"github.com/spf13/pflag"

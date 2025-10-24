@@ -27,7 +27,7 @@ import (
 	"time"
 
 	implantEncoders "github.com/baconpotato519/smile/implant/smile/encoders/traffic"
-	serverEncoders "github.com/bishopfox/sliver/util/encoders/traffic"
+	serverEncoders "github.com/baconpotato519/smile/util/encoders/traffic"
 )
 
 //go:embed hex.wasm

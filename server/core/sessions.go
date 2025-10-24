@@ -25,12 +25,12 @@ import (
 
 	"github.com/baconpotato519/smile/implant/smile/transports/mtls"
 	"github.com/baconpotato519/smile/implant/smile/transports/wireguard"
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
-	"github.com/bishopfox/sliver/server/log"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/server/log"
 	"github.com/gofrs/uuid"
 
-	consts "github.com/bishopfox/sliver/client/constants"
+	consts "github.com/baconpotato519/smile/client/constants"
 )
 
 var (

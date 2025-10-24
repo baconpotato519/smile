@@ -49,7 +49,7 @@ import (
 	"github.com/baconpotato519/smile/implant/smile/pivots"
 	"github.com/baconpotato519/smile/implant/smile/transports"
 	"github.com/baconpotato519/smile/implant/smile/version"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 
 	"github.com/gofrs/uuid"
 	"google.golang.org/protobuf/proto"

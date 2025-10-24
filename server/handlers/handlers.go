@@ -25,8 +25,8 @@ package handlers
 import (
 	"sync"
 
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
-	"github.com/bishopfox/sliver/server/core"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/server/core"
 )
 
 type ServerHandler func(*core.ImplantConnection, []byte) *sliverpb.Envelope

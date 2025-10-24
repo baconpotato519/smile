@@ -27,7 +27,7 @@ import (
 	"testing"
 
 	implantCrypto "github.com/baconpotato519/smile/implant/smile/cryptography"
-	"github.com/bishopfox/sliver/util/minisign"
+	"github.com/baconpotato519/smile/util/minisign"
 )
 
 var (

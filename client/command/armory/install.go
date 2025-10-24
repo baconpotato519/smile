@@ -30,13 +30,13 @@ import (
 	"github.com/AlecAivazis/survey/v2"
 	"github.com/spf13/cobra"
 
-	"github.com/bishopfox/sliver/client/assets"
-	"github.com/bishopfox/sliver/client/command/alias"
-	"github.com/bishopfox/sliver/client/command/extensions"
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/util"
-	"github.com/bishopfox/sliver/util/minisign"
+	"github.com/baconpotato519/smile/client/assets"
+	"github.com/baconpotato519/smile/client/command/alias"
+	"github.com/baconpotato519/smile/client/command/extensions"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/util"
+	"github.com/baconpotato519/smile/util/minisign"
 )
 
 // ErrPackageNotFound - The package was not found

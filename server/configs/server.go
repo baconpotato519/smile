@@ -23,9 +23,9 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/bishopfox/sliver/server/assets"
-	"github.com/bishopfox/sliver/server/db/models"
-	"github.com/bishopfox/sliver/server/log"
+	"github.com/baconpotato519/smile/server/assets"
+	"github.com/baconpotato519/smile/server/db/models"
+	"github.com/baconpotato519/smile/server/log"
 	"github.com/sirupsen/logrus"
 )
 

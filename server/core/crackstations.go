@@ -22,8 +22,8 @@ import (
 	"errors"
 	"sync"
 
-	consts "github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/protobuf/clientpb"
+	consts "github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
 )
 
 var (

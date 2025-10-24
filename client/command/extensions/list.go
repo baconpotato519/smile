@@ -26,9 +26,9 @@ import (
 	"path/filepath"
 	"slices"
 
-	"github.com/bishopfox/sliver/client/command/settings"
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/client/command/settings"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 	"github.com/jedib0t/go-pretty/v6/table"
 	"github.com/spf13/cobra"
 )

@@ -28,7 +28,7 @@ import (
 	"strings"
 	"text/template"
 
-	consts "github.com/bishopfox/sliver/client/constants"
+	consts "github.com/baconpotato519/smile/client/constants"
 )
 
 const (

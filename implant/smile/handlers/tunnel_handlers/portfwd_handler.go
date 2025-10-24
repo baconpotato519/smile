@@ -32,8 +32,8 @@ import (
 	// {{end}}
 
 	"github.com/baconpotato519/smile/implant/smile/transports"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )
 

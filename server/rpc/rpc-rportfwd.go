@@ -21,9 +21,9 @@ package rpc
 import (
 	"context"
 
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
-	"github.com/bishopfox/sliver/server/core/rtunnels"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/server/core/rtunnels"
 )
 
 // GetRportFwdListeners - Get a list of all reverse port forwards listeners from an implant

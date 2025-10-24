@@ -7,7 +7,7 @@ import (
 	"io"
 	"os"
 
-	minisign "github.com/bishopfox/sliver/util/minisign"
+	minisign "github.com/baconpotato519/smile/util/minisign"
 )
 
 const defaultZigPublicKey = "RWSGOq2NVecA2UPNdBUZykf1CCb147pkmdtYxgb3Ti+JO/wCYvhbAb/U"

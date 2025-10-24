@@ -23,8 +23,8 @@ import (
 	"strings"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/client/core"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/client/core"
 	"github.com/spf13/cobra"
 )
 

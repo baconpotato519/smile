@@ -34,12 +34,12 @@ import (
 	"github.com/spf13/cobra"
 	"golang.org/x/exp/slices"
 
-	"github.com/bishopfox/sliver/client/assets"
-	"github.com/bishopfox/sliver/client/command/settings"
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
+	"github.com/baconpotato519/smile/client/assets"
+	"github.com/baconpotato519/smile/client/command/settings"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
 )
 
 // C2ProfileCmd list available http profiles

@@ -28,8 +28,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	ver "github.com/bishopfox/sliver/client/version"
-	"github.com/bishopfox/sliver/server/log"
+	ver "github.com/baconpotato519/smile/client/version"
+	"github.com/baconpotato519/smile/server/log"
 	"golang.org/x/crypto/openpgp/armor"
 	"golang.org/x/crypto/openpgp/packet"
 )

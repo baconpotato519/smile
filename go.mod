@@ -1,4 +1,4 @@
-module github.com/bishopfox/sliver
+module github.com/baconpotato519/smile
 
 go 1.25.1
 

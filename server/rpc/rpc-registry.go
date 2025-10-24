@@ -21,8 +21,8 @@ package rpc
 import (
 	"context"
 
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 )
 
 // RegistryRead - gRPC interface to read a registry key from a session

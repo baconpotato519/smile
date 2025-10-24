@@ -59,7 +59,7 @@ import (
 	"github.com/baconpotato519/smile/implant/smile/transports/dnsclient"
 	// {{end}}
 
-	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
+	pb "github.com/baconpotato519/smile/protobuf/sliverpb"
 )
 
 var (

@@ -34,7 +34,7 @@ import (
 
 	consts "github.com/baconpotato519/smile/implant/smile/constants"
 	"github.com/baconpotato519/smile/implant/smile/cryptography"
-	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
+	pb "github.com/baconpotato519/smile/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )
 

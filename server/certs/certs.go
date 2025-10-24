@@ -35,9 +35,9 @@ import (
 	"net"
 	"time"
 
-	"github.com/bishopfox/sliver/server/db"
-	"github.com/bishopfox/sliver/server/db/models"
-	"github.com/bishopfox/sliver/server/log"
+	"github.com/baconpotato519/smile/server/db"
+	"github.com/baconpotato519/smile/server/db/models"
+	"github.com/baconpotato519/smile/server/log"
 )
 
 const (

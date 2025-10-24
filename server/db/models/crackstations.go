@@ -22,7 +22,7 @@ import (
 	"math"
 	"time"
 
-	"github.com/bishopfox/sliver/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
 	"github.com/gofrs/uuid"
 	"gorm.io/gorm"
 )

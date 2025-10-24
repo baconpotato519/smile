@@ -25,7 +25,7 @@ import (
 	// {{end}}
 
 	"github.com/baconpotato519/smile/implant/smile/handlers/tunnel_handlers"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 )
 
 var (

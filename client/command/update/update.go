@@ -35,12 +35,12 @@ import (
 	"time"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/bishopfox/sliver/client/assets"
-	"github.com/bishopfox/sliver/client/console"
-	consts "github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/client/version"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/util"
+	"github.com/baconpotato519/smile/client/assets"
+	"github.com/baconpotato519/smile/client/console"
+	consts "github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/client/version"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/util"
 	"github.com/cheggaaa/pb/v3"
 	"github.com/spf13/cobra"
 )

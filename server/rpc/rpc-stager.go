@@ -22,10 +22,10 @@ import (
 	"context"
 	"net"
 
-	"github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/server/c2"
-	"github.com/bishopfox/sliver/server/db"
+	"github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/server/c2"
+	"github.com/baconpotato519/smile/server/db"
 )
 
 // StartTCPStagerListener starts a TCP stager listener

@@ -20,7 +20,7 @@ package tunnel_handlers
 
 import (
 	"github.com/baconpotato519/smile/implant/smile/transports"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 )
 
 func reportError(envelope *sliverpb.Envelope, connection *transports.Connection, data []byte) {

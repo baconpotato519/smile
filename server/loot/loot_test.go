@@ -6,8 +6,8 @@ import (
 	insecureRand "math/rand"
 	"testing"
 
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
 	"github.com/gofrs/uuid"
 )
 

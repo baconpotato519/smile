@@ -1,9 +1,9 @@
 package settings
 
 import (
-	"github.com/bishopfox/sliver/client/command/help"
-	"github.com/bishopfox/sliver/client/console"
-	consts "github.com/bishopfox/sliver/client/constants"
+	"github.com/baconpotato519/smile/client/command/help"
+	"github.com/baconpotato519/smile/client/console"
+	consts "github.com/baconpotato519/smile/client/constants"
 	"github.com/reeflective/console/commands/readline"
 	"github.com/spf13/cobra"
 )

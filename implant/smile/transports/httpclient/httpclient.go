@@ -42,7 +42,7 @@ import (
 
 	"github.com/baconpotato519/smile/implant/smile/cryptography"
 	"github.com/baconpotato519/smile/implant/smile/encoders"
-	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
+	pb "github.com/baconpotato519/smile/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )
 

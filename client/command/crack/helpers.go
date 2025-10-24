@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/protobuf/clientpb"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
 	"github.com/rsteube/carapace"
 )
 

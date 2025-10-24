@@ -26,7 +26,7 @@ import (
 	"time"
 
 	implantEncoders "github.com/baconpotato519/smile/implant/smile/encoders"
-	util "github.com/bishopfox/sliver/util/encoders"
+	util "github.com/baconpotato519/smile/util/encoders"
 )
 
 const (

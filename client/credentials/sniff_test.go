@@ -21,7 +21,7 @@ package credentials
 import (
 	"testing"
 
-	"github.com/bishopfox/sliver/protobuf/clientpb"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
 )
 
 func TestSniffHashType(t *testing.T) {

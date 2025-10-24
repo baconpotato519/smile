@@ -44,8 +44,8 @@ import (
 	"github.com/baconpotato519/smile/implant/smile/spoof"
 	"github.com/baconpotato519/smile/implant/smile/syscalls"
 	"github.com/baconpotato519/smile/implant/smile/taskrunner"
-	"github.com/bishopfox/sliver/protobuf/commonpb"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/commonpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 
 	"golang.org/x/sys/windows"
 	"google.golang.org/protobuf/proto"

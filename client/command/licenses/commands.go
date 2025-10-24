@@ -3,10 +3,10 @@ package licenses
 import (
 	"github.com/spf13/cobra"
 
-	"github.com/bishopfox/sliver/client/command/help"
-	"github.com/bishopfox/sliver/client/console"
-	consts "github.com/bishopfox/sliver/client/constants"
-	"github.com/bishopfox/sliver/client/licenses"
+	"github.com/baconpotato519/smile/client/command/help"
+	"github.com/baconpotato519/smile/client/console"
+	consts "github.com/baconpotato519/smile/client/constants"
+	"github.com/baconpotato519/smile/client/licenses"
 )
 
 // Commands returns the `licences` command.

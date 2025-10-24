@@ -70,8 +70,8 @@ import (
 
 	"github.com/baconpotato519/smile/implant/smile/cryptography"
 	"github.com/baconpotato519/smile/implant/smile/encoders"
-	"github.com/bishopfox/sliver/protobuf/dnspb"
-	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/dnspb"
+	pb "github.com/baconpotato519/smile/protobuf/sliverpb"
 	"github.com/miekg/dns"
 	"google.golang.org/protobuf/proto"
 )

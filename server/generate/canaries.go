@@ -23,9 +23,9 @@ import (
 	insecureRand "math/rand"
 	"strings"
 
-	"github.com/bishopfox/sliver/protobuf/clientpb"
-	"github.com/bishopfox/sliver/server/db"
-	"github.com/bishopfox/sliver/server/db/models"
+	"github.com/baconpotato519/smile/protobuf/clientpb"
+	"github.com/baconpotato519/smile/server/db"
+	"github.com/baconpotato519/smile/server/db/models"
 )
 
 const (

@@ -20,9 +20,9 @@ RUN groupadd -g 999 sliver && useradd -r -u 999 -g sliver sliver
 RUN mkdir -p /home/sliver/ && chown -R sliver:sliver /home/sliver
 
 ### Build sliver:
-RUN mkdir -p /go/src/github.com/bishopfox/sliver
-WORKDIR /go/src/github.com/bishopfox/sliver
-ADD . /go/src/github.com/bishopfox/sliver/
+RUN mkdir -p /go/src/github.com/baconpotato519/smile
+WORKDIR /go/src/github.com/baconpotato519/smile
+ADD . /go/src/github.com/baconpotato519/smile/
 RUN make
 RUN cp -vv sliver-server /opt/sliver-server 
 
@@ -39,7 +39,7 @@ RUN apt-get update --fix-missing \
 RUN /opt/sliver-server unpack --force 
 
 ### Run unit tests
-RUN /go/src/github.com/bishopfox/sliver/go-tests.sh
+RUN /go/src/github.com/baconpotato519/smile/go-tests.sh
 
 # STAGE: production
 ## Final dockerized form of Sliver

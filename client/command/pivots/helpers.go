@@ -28,8 +28,8 @@ import (
 	"text/tabwriter"
 
 	"github.com/AlecAivazis/survey/v2"
-	"github.com/bishopfox/sliver/client/console"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/client/console"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 	"github.com/rsteube/carapace"
 )
 

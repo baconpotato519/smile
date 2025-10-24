@@ -25,10 +25,10 @@ import (
 	"testing"
 
 	implantCrypto "github.com/baconpotato519/smile/implant/smile/cryptography"
-	"github.com/bishopfox/sliver/server/certs"
-	"github.com/bishopfox/sliver/server/cryptography"
-	"github.com/bishopfox/sliver/server/db"
-	"github.com/bishopfox/sliver/server/db/models"
+	"github.com/baconpotato519/smile/server/certs"
+	"github.com/baconpotato519/smile/server/cryptography"
+	"github.com/baconpotato519/smile/server/db"
+	"github.com/baconpotato519/smile/server/db/models"
 )
 
 var (

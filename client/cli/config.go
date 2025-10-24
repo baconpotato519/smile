@@ -22,7 +22,7 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/bishopfox/sliver/client/assets"
+	"github.com/baconpotato519/smile/client/assets"
 	"gopkg.in/AlecAivazis/survey.v1"
 )
 

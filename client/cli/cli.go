@@ -24,8 +24,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/bishopfox/sliver/client/assets"
-	"github.com/bishopfox/sliver/client/console"
+	"github.com/baconpotato519/smile/client/assets"
+	"github.com/baconpotato519/smile/client/console"
 	"github.com/rsteube/carapace"
 	"github.com/spf13/cobra"
 )

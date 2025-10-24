@@ -33,7 +33,7 @@ import (
 	// {{end}}
 
 	"github.com/baconpotato519/smile/implant/smile/transports/pivotclients"
-	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
+	pb "github.com/baconpotato519/smile/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )
 

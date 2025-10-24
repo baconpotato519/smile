@@ -34,7 +34,7 @@ import (
 
 	"github.com/baconpotato519/smile/implant/smile/tcpproxy"
 	"github.com/baconpotato519/smile/implant/smile/transports"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 )
 
 var (

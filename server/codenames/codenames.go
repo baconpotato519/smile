@@ -26,8 +26,8 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/bishopfox/sliver/server/assets"
-	"github.com/bishopfox/sliver/server/log"
+	"github.com/baconpotato519/smile/server/assets"
+	"github.com/baconpotato519/smile/server/log"
 
 	"github.com/sirupsen/logrus"
 )

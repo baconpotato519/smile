@@ -18,7 +18,7 @@ package credentials
 	along with this program.  If not, see <https://www.gnu.org/licenses/>.
 */
 
-import "github.com/bishopfox/sliver/protobuf/clientpb"
+import "github.com/baconpotato519/smile/protobuf/clientpb"
 
 var (
 	CommonHashTypes = map[clientpb.HashType]string{

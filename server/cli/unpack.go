@@ -21,7 +21,7 @@ package cli
 import (
 	"fmt"
 
-	"github.com/bishopfox/sliver/server/assets"
+	"github.com/baconpotato519/smile/server/assets"
 	"github.com/spf13/cobra"
 )
 

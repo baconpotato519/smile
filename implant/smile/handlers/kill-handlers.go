@@ -25,7 +25,7 @@ import (
 	"time"
 
 	"github.com/baconpotato519/smile/implant/smile/transports"
-	"github.com/bishopfox/sliver/protobuf/sliverpb"
+	"github.com/baconpotato519/smile/protobuf/sliverpb"
 
 	// {{if .Config.Debug}}
 	"log"
