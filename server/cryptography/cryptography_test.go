@@ -26,7 +26,7 @@ import (
 	"sync"
 	"testing"
 
-	implantCrypto "github.com/bishopfox/sliver/implant/sliver/cryptography"
+	implantCrypto "github.com/baconpotato519/smile/implant/smile/cryptography"
 	"github.com/bishopfox/sliver/util/minisign"
 )
 

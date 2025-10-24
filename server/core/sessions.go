@@ -23,8 +23,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bishopfox/sliver/implant/sliver/transports/mtls"
-	"github.com/bishopfox/sliver/implant/sliver/transports/wireguard"
+	"github.com/baconpotato519/smile/implant/smile/transports/mtls"
+	"github.com/baconpotato519/smile/implant/smile/transports/wireguard"
 	"github.com/bishopfox/sliver/protobuf/clientpb"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 	"github.com/bishopfox/sliver/server/log"

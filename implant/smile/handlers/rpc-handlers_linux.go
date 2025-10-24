@@ -31,7 +31,7 @@ import (
 	"strconv"
 	"syscall"
 
-	"github.com/bishopfox/sliver/implant/sliver/ps"
+	"github.com/baconpotato519/smile/implant/smile/ps"
 	"github.com/bishopfox/sliver/protobuf/commonpb"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"

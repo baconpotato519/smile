@@ -28,7 +28,7 @@ import (
 	"log"
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/encoders"
+	"github.com/baconpotato519/smile/implant/smile/encoders"
 )
 
 // NewSystemResolver - Initialize a new system resolver

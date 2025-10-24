@@ -23,8 +23,8 @@ import (
 	"log"
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/pivots"
-	"github.com/bishopfox/sliver/implant/sliver/transports"
+	"github.com/baconpotato519/smile/implant/smile/pivots"
+	"github.com/baconpotato519/smile/implant/smile/transports"
 	"github.com/bishopfox/sliver/protobuf/commonpb"
 	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"

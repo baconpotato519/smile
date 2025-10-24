@@ -26,7 +26,7 @@ import (
 	"testing"
 	"time"
 
-	implantEncoders "github.com/bishopfox/sliver/implant/sliver/encoders/traffic"
+	implantEncoders "github.com/baconpotato519/smile/implant/smile/encoders/traffic"
 	serverEncoders "github.com/bishopfox/sliver/util/encoders/traffic"
 )
 

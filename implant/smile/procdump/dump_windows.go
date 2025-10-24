@@ -29,7 +29,7 @@ import (
 
 	// {{if .Config.Evasion}}
 	// {{if eq .Config.GOARCH "amd64"}}
-	"github.com/bishopfox/sliver/implant/sliver/evasion"
+	"github.com/baconpotato519/smile/implant/smile/evasion"
 	// {{end}}
 	// {{end}}
 
@@ -37,8 +37,8 @@ import (
 	"encoding/binary"
 	"unsafe"
 
-	"github.com/bishopfox/sliver/implant/sliver/priv"
-	"github.com/bishopfox/sliver/implant/sliver/syscalls"
+	"github.com/baconpotato519/smile/implant/smile/priv"
+	"github.com/baconpotato519/smile/implant/smile/syscalls"
 	"golang.org/x/sys/windows"
 )
 

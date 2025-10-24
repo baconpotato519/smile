@@ -28,10 +28,10 @@ import (
 
 	// {{if .Config.Debug}}
 	"log"
-	"github.com/bishopfox/sliver/implant/sliver/cryptography"
+	"github.com/baconpotato519/smile/implant/smile/cryptography"
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/proxy"
+	"github.com/baconpotato519/smile/implant/smile/proxy"
 )
 
 // GoHTTPDriver - Pure Go HTTP driver

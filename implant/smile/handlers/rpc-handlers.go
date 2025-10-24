@@ -27,10 +27,10 @@ import (
 	"log"
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/netstat"
-	"github.com/bishopfox/sliver/implant/sliver/ps"
-	"github.com/bishopfox/sliver/implant/sliver/shell/ssh"
-	"github.com/bishopfox/sliver/implant/sliver/taskrunner"
+	"github.com/baconpotato519/smile/implant/smile/netstat"
+	"github.com/baconpotato519/smile/implant/smile/ps"
+	"github.com/baconpotato519/smile/implant/smile/shell/ssh"
+	"github.com/baconpotato519/smile/implant/smile/taskrunner"
 	"github.com/bishopfox/sliver/protobuf/commonpb"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 

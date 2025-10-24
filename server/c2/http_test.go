@@ -27,9 +27,9 @@ package c2
 // 	"net/url"
 // 	"testing"
 
-// 	implantCrypto "github.com/bishopfox/sliver/implant/sliver/cryptography"
-// 	implantEncoders "github.com/bishopfox/sliver/implant/sliver/encoders"
-// 	implantTransports "github.com/bishopfox/sliver/implant/sliver/transports/httpclient"
+// 	implantCrypto "github.com/baconpotato519/smile/implant/smile/cryptography"
+// 	implantEncoders "github.com/baconpotato519/smile/implant/smile/encoders"
+// 	implantTransports "github.com/baconpotato519/smile/implant/smile/transports/httpclient"
 // 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 // 	"github.com/bishopfox/sliver/server/configs"
 // 	"github.com/bishopfox/sliver/server/cryptography"

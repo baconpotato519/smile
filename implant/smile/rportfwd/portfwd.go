@@ -32,8 +32,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bishopfox/sliver/implant/sliver/tcpproxy"
-	"github.com/bishopfox/sliver/implant/sliver/transports"
+	"github.com/baconpotato519/smile/implant/smile/tcpproxy"
+	"github.com/baconpotato519/smile/implant/smile/transports"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 )
 

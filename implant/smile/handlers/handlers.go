@@ -39,8 +39,8 @@ import (
 	"log"
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/handlers/matcher"
-	"github.com/bishopfox/sliver/implant/sliver/transports"
+	"github.com/baconpotato519/smile/implant/smile/handlers/matcher"
+	"github.com/baconpotato519/smile/implant/smile/transports"
 	"github.com/bishopfox/sliver/protobuf/commonpb"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"

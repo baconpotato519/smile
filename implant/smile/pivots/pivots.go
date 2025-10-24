@@ -32,8 +32,8 @@ import (
 	"log"
 	// {{end}}
 
-	consts "github.com/bishopfox/sliver/implant/sliver/constants"
-	"github.com/bishopfox/sliver/implant/sliver/cryptography"
+	consts "github.com/baconpotato519/smile/implant/smile/constants"
+	"github.com/baconpotato519/smile/implant/smile/cryptography"
 	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )

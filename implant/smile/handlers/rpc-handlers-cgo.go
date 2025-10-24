@@ -25,7 +25,7 @@ import (
 	"log"
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/screen"
+	"github.com/baconpotato519/smile/implant/smile/screen"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )

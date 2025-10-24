@@ -35,28 +35,28 @@ import (
 	// {{if .Config.IncludeMTLS}}
 	"crypto/tls"
 
-	"github.com/bishopfox/sliver/implant/sliver/transports/mtls"
+	"github.com/baconpotato519/smile/implant/smile/transports/mtls"
 
 	// {{end}}
 
 	// {{if .Config.IncludeWG}}
 	"errors"
 
-	"github.com/bishopfox/sliver/implant/sliver/transports/wireguard"
+	"github.com/baconpotato519/smile/implant/smile/transports/wireguard"
 	"golang.zx2c4.com/wireguard/device"
 
 	// {{end}}
 
 	// {{if .Config.IncludeHTTP}}
-	"github.com/bishopfox/sliver/implant/sliver/transports/httpclient"
+	"github.com/baconpotato519/smile/implant/smile/transports/httpclient"
 	// {{end}}
 
 	// {{if .Config.IncludeDNS}}
-	"github.com/bishopfox/sliver/implant/sliver/transports/dnsclient"
+	"github.com/baconpotato519/smile/implant/smile/transports/dnsclient"
 	// {{end}}
 
 	// {{if .Config.IncludeTCP}}
-	"github.com/bishopfox/sliver/implant/sliver/transports/pivotclients"
+	"github.com/baconpotato519/smile/implant/smile/transports/pivotclients"
 	"google.golang.org/protobuf/proto"
 
 	// {{end}}

@@ -40,8 +40,8 @@ import (
 
 	// {{end}}
 
-	"github.com/bishopfox/sliver/implant/sliver/cryptography"
-	"github.com/bishopfox/sliver/implant/sliver/encoders"
+	"github.com/baconpotato519/smile/implant/smile/cryptography"
+	"github.com/baconpotato519/smile/implant/smile/encoders"
 	pb "github.com/bishopfox/sliver/protobuf/sliverpb"
 	"google.golang.org/protobuf/proto"
 )

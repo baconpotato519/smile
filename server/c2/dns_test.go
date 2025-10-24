@@ -28,7 +28,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/bishopfox/sliver/implant/sliver/transports/dnsclient"
+	"github.com/baconpotato519/smile/implant/smile/transports/dnsclient"
 	"github.com/bishopfox/sliver/protobuf/dnspb"
 	"github.com/bishopfox/sliver/util/encoders"
 	"google.golang.org/protobuf/proto"

@@ -29,7 +29,7 @@ import (
 	"context"
 	"os/exec"
 
-	"github.com/bishopfox/sliver/implant/sliver/shell/pty"
+	"github.com/baconpotato519/smile/implant/smile/shell/pty"
 )
 
 var (

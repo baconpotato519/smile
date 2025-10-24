@@ -41,14 +41,14 @@ import (
 	"log"
 	// {{end}}
 
-	consts "github.com/bishopfox/sliver/implant/sliver/constants"
-	"github.com/bishopfox/sliver/implant/sliver/handlers"
-	"github.com/bishopfox/sliver/implant/sliver/hostuuid"
-	"github.com/bishopfox/sliver/implant/sliver/limits"
-	"github.com/bishopfox/sliver/implant/sliver/locale"
-	"github.com/bishopfox/sliver/implant/sliver/pivots"
-	"github.com/bishopfox/sliver/implant/sliver/transports"
-	"github.com/bishopfox/sliver/implant/sliver/version"
+	consts "github.com/baconpotato519/smile/implant/smile/constants"
+	"github.com/baconpotato519/smile/implant/smile/handlers"
+	"github.com/baconpotato519/smile/implant/smile/hostuuid"
+	"github.com/baconpotato519/smile/implant/smile/limits"
+	"github.com/baconpotato519/smile/implant/smile/locale"
+	"github.com/baconpotato519/smile/implant/smile/pivots"
+	"github.com/baconpotato519/smile/implant/smile/transports"
+	"github.com/baconpotato519/smile/implant/smile/version"
 	"github.com/bishopfox/sliver/protobuf/sliverpb"
 
 	"github.com/gofrs/uuid"
